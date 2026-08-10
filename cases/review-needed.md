@@ -11,6 +11,8 @@
 | RN-05｜单 prompt 多风格测试 | [Yaroflasher](https://www.youtube.com/watch?v=7pQ9SJUzA4w)，2026-08-03 | 作者明确称片头由 Seedance 2.5 和单个 prompt 生成，视频公开。 | 原帖未公开该 prompt 的全文或具体生成设置。 | 作者补充 prompt、模型入口与设置后可升级。 |
 | RN-06｜Figma Weave 商品广告 | [Artturi Jalli](https://www.youtube.com/watch?v=IqosffVLFEA)，2026-08-09 | 作者提供工作流/提示词链接，并公开商品广告视频。 | 外部 Weavy 工作流页受 Cloudflare 访问保护，当前无法核验单个完整 prompt、输入素材和模型调用记录。 | 在公开可访问时验证模型版本、输入与输出一一对应。 |
 | RN-07｜兔爪触脸的接触动作测试 | [u/Guilty-Cap2069](https://www.reddit.com/r/Seedance_AI/comments/1vi9d4f/seedance_25_kept_the_character_consistent_but/)，2026-08-10 验证 | 作者称以 ZenMux 的 `bytedance/doubao-seedance-2.5` 生成 720p、8 秒成片；原帖嵌入效果视频，并具体说明预期接触动作未执行。 | 作者称完整 prompt 在首条评论，但该评论未出现在当前可访问的公开页面，故无法核对完整文本与成片。 | 若作者在正文、可公开读取的评论或项目页贴出 prompt 全文，可作为“失败也可复现”的动作接触案例复核。 |
+| RN-08｜单提示词电影片段 | [u/huzi001](https://www.reddit.com/user/huzi001/comments/1vg7n0s/seedance_25_output/)，2026-08-10 验证 | 作者称该嵌入成片由 Seedance 2.5 的单条文生视频 prompt 生成，并明确提及动作、运镜、物理、对白与连续性。 | 正文没有公开 prompt 原文、模型入口、时长、分辨率或参考素材；无法据此区分实际参数与事后描述。 | 若作者补充完整 prompt 和使用平台/设置，可将成片与文本建立一对一案例。 |
+| RN-09｜单图 Vlog 广告 | [r/Seedance_AI 帖子](https://www.reddit.com/r/Seedance_AI/comments/1vbse9l/seedance_25_is_insane_for_vlog_style_ads/)，2026-08-10 验证 | 帖子嵌入一支 30 秒广告视频，并声称由“一张产品图 + 一条 prompt”一镜生成；评论中也向作者索要 prompt。 | 公开页面没有作者实际使用的 prompt、输入产品图、具体平台或设置；“prompt”仅是未证实的说法。 | 作者在正文/评论公开 prompt 与可使用的参考素材后，再核验是否为 Seedance 2.5 成片。 |
 
 ## 处理规则
 
