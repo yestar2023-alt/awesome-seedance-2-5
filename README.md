@@ -21,8 +21,9 @@
 - [Cloudstitcher creator case — CR-71](./cases/creator-reported-x-2026-08-03-cloudstitcher.md): STΛRJUPI 公开的双参考图云城动作 RPG 成片与完整 30 秒时间轴 prompt（`creator-reported`）。
 - [Summer-rain creator case — CR-72](./cases/creator-reported-x-2026-08-05-summer-rain-memory.md): CREATOR'ZZ 公开的雨后夏日 POV 成片与完整日文 prompt，prompt 中直接标明 Seedance 2.5（`creator-reported`）。
 - [Rainy alien-chase creator case — CR-73](./cases/creator-reported-x-2026-08-07-rainy-alien-chase.md): Snow 公开的 15 秒低机位雨夜追逐成片与完整 Seedance 2.5 prompt；含受保护角色名，已标注不可直接商用复刻（`creator-reported`）。
+- [Katana-dance creator case — CR-74](./cases/creator-reported-x-2026-08-01-katana-dance.md): Kōda 公开的 30 秒高速舞刀首测与完整 prompt，连同已披露的形变/道具消失失败记录（`creator-reported`）。
 
-目前共 **82 个**带可播放视频链接的案例；其中 **80 个**公开完整 prompt，**2 个**仅公开部分 prompt（CR-64、CR-68），覆盖：
+目前共 **83 个**带可播放视频链接的案例；其中 **81 个**公开完整 prompt，**2 个**仅公开部分 prompt（CR-64、CR-68），覆盖：
 
 - 30 秒叙事、一镜到底与多轮延长
 - 多图/视频/音频参考与多人群像
