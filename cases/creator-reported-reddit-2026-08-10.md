@@ -63,12 +63,40 @@ The protagonist walks at a constant pace, passing through every open door.
 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference u/image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
 ```
 
+## CR-61｜Mini-DV 咖啡 Vlog：磨豆至拉花
+
+- **作者**：u/Fresh-Resolution182
+- **模式**：Text-to-video，30 秒、单次生成
+- **效果视频与原始来源**：[Reddit 原帖（含视频）](https://www.reddit.com/r/Seedance_AI/comments/1vhv8g8/built_a_full_minidv_camcorder_coffee_vlog_grinder/)
+- **生成说明**：作者明确称在 Atlas Cloud 以 Seedance 2.5 单次生成、未拼接片段；未公开 seed、比例、实际生成次数或原始项目文件。
+
+```text
+CAMERA / LOOK: Handheld mini-DV camcorder footage filmed by the subject himself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright kitchen morning light. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.
+STYLE: Cozy coffee-prep vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: bean grinder whirring, portafilter tamping, steam wand hissing, cup clinking, milk frothing.
+SUBJECT: Original synthetic young man, no real-person likeness, mid-20s, plain t-shirt, hair slightly tousled, minimal accessories. Calm, focused energy while making his morning coffee.
+SETTING: Small kitchen counter with an espresso machine on a bright morning. Natural daylight, coffee beans and a mug nearby, quiet atmosphere.
+STORYBOARD:
+1. (3s, propped medium shot) Places camera on the counter, switches on the machine. "Morning coffee, the proper way."
+2. (3s, overhead shot) Grinds fresh coffee beans, fine grounds falling into the portafilter.
+3. (3s, close-up) Tamps the grounds down firmly and evenly.
+4. (3s, handheld shot) Locks the portafilter into the machine. "Here we go."
+5. (3s, detail shot) Espresso streams slowly into a small cup. No dialogue.
+6. (3s, medium shot) Pours cold milk into a small steel pitcher. "Time for the milk."
+7. (3s, macro shot) Steam wand hissing as it froths the milk.
+8. (3s, propped shot) Pours frothed milk carefully over the espresso, forming light layers.
+9. (3s, warm ending shot) Holds the finished cup, takes a small sip, satisfied smile. "That's exactly what I needed."
+10. (3s, final shot) Reaches toward camera, still holding the cup. "See you later." Hand covers lens as recording ends.
+AUDIO NOTES: Natural kitchen ambience, grinder whirring, tamping, steam hissing, milk pouring should be clearly audible. Dialogue quiet and casual.
+REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles, occasional careful pauses while pouring, imperfect framing, focus breathing, bright morning light shifts. Should resemble a genuine personal coffee vlog on a consumer camcorder, not a commercial or AI-generated production.
+```
+
 ## 复现与风险
 
 1. 先使用不含真实人物、未授权商标或受保护角色的自有素材与设定；这两条均为文本驱动，不应暗示素材或角色来自原作者。
 2. 连续长镜头应逐项验证人物外观、道具、运动轨迹、镜头连续性、音画同步和无硬切；即使 prompt 完整，单次结果不代表可稳定复现。
 3. CR-56 含暴力战斗描写；CR-57 含酒精、泳池和换装场景。发布或商用时须遵守平台、受众与适用法律要求。
 4. CR-60 的引用素材没有公开，不能把此条当作可逐资产复跑的配方；复现时必须用自有素材替换各角色、窗口景观和参考风格，并检查“有文字/无文字”的冲突指令如何被当前入口解释。
+5. CR-61 以“拟真日常记录”为目标。合成 Vlog 应明确标识，不得将其用于冒充真人、真实地点或真实消费体验；咖啡机、背景音乐与环境声也须使用已获授权的内容。
 
 ## CR-58｜双参考的卡通双人对话（2.0 / 2.5 对照）
 
