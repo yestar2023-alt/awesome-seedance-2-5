@@ -13,8 +13,9 @@
 - [Krea creator cases — CR-23 ～ CR-30](./cases/creator-reported-krea-prompt-gallery.md): 公开 Prompt Gallery 的 8 个可播放案例，涵盖食物、时装、城市生活、动物、运动和艺术。
 - [Independent creator case — CR-31](./cases/creator-reported-2026-08-08-teachers-tech-fisherman.md): Teacher's Tech 公开完整 prompt 的 30 秒叙事与同步音频案例。
 - [Review needed](./cases/review-needed.md): 已发现但尚缺完整 prompt 或输入/输出对应证据的创作者候选，不计入案例总数。
+- [Showcase expanded cases — CR-32 ～ CR-48](./cases/community-reported-more.md): 17 个经视频链接核验的参考生成、视频编辑与续写案例。
 
-目前共 **40 个**带可播放视频链接与完整 prompt 的案例，覆盖：
+目前共 **57 个**带可播放视频链接与完整 prompt 的案例，覆盖：
 
 - 30 秒叙事、一镜到底与多轮延长
 - 多图/视频/音频参考与多人群像
