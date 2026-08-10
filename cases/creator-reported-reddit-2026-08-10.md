@@ -45,11 +45,30 @@ Bright natural summer daylight, warm sunlit color palette, candid documentary en
 Maintain her exact hairstyle, green eyes, Brazil jersey, and white denim shorts until she changes into the swimsuit. Maintain the same swimsuit for the rest of the sequence. Background party guests and swimmers should remain generic and unnamed. No text overlays, flickering, ghosting, morphing artifacts, or hard cuts. Natural skin tones and stable continuous handheld motion throughout.
 ```
 
+## CR-60｜六个相连房间的 30 秒连续镜头
+
+- **作者**：u/Tricky_Algae2625
+- **模式**：Reference generation，30 秒、单镜头、多场景转场
+- **效果视频与原始来源**：[Reddit 原帖（含视频）](https://www.reddit.com/r/Seedance_AI/comments/1vf5u20/i_built_a_30second_seedance_25_take_that_moves/)
+- **生成说明**：作者明确称为 Seedance 2.5 的 30 秒连续镜头，并公开完整时间轴 prompt。原帖仅以 `reference` / `@image…` 指代输入，未公开原始参考资产、seed、比例和生成次数。
+
+```text
+One continuous take. The camera smoothly follows a person in a black coat (reference ) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference ) but the outside view and mood differ each time.
+The protagonist walks at a constant pace, passing through every open door.
+0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated;
+5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering;
+10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom;
+15-20s room four, joy, a room submerged in the sea (reference ), the protagonist turning transparent among coral and fish;
+20-25s room five, surprise, window view a sky of fireworks (reference ), colorful flickering light, the protagonist swept up in a cheering crowd;
+25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference u/image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+```
+
 ## 复现与风险
 
 1. 先使用不含真实人物、未授权商标或受保护角色的自有素材与设定；这两条均为文本驱动，不应暗示素材或角色来自原作者。
 2. 连续长镜头应逐项验证人物外观、道具、运动轨迹、镜头连续性、音画同步和无硬切；即使 prompt 完整，单次结果不代表可稳定复现。
 3. CR-56 含暴力战斗描写；CR-57 含酒精、泳池和换装场景。发布或商用时须遵守平台、受众与适用法律要求。
+4. CR-60 的引用素材没有公开，不能把此条当作可逐资产复跑的配方；复现时必须用自有素材替换各角色、窗口景观和参考风格，并检查“有文字/无文字”的冲突指令如何被当前入口解释。
 
 ## CR-58｜双参考的卡通双人对话（2.0 / 2.5 对照）
 

@@ -15,9 +15,9 @@
 - [Review needed](./cases/review-needed.md): 已发现但尚缺完整 prompt 或输入/输出对应证据的创作者候选，不计入案例总数。
 - [Showcase expanded cases — CR-32 ～ CR-48](./cases/community-reported-more.md): 17 个经视频链接核验的参考生成、视频编辑与续写案例。
 - [Showcase serialized cases — CR-49 ～ CR-55](./cases/community-reported-serialized.md): 7 个从页面原始序列化数据还原的完整 prompt，涵盖多参考广告与长提示词续写。
-- [Reddit creator cases — CR-56 ～ CR-59](./cases/creator-reported-reddit-2026-08-10.md): 四个独立创作者公开的成片帖与完整 prompt，覆盖第一人称动作、30 秒手持单镜头、双参考对话和旅行 Vlog。
+- [Reddit creator cases — CR-56 ～ CR-60](./cases/creator-reported-reddit-2026-08-10.md): 五个独立创作者公开的成片帖与完整 prompt，覆盖第一人称动作、30 秒手持单镜头、双参考对话、旅行 Vlog 和多房间转场。
 
-目前共 **68 个**带可播放视频链接与完整 prompt 的案例，覆盖：
+目前共 **69 个**带可播放视频链接与完整 prompt 的案例，覆盖：
 
 - 30 秒叙事、一镜到底与多轮延长
 - 多图/视频/音频参考与多人群像
