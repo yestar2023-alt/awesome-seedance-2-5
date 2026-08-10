@@ -2,7 +2,7 @@
 
 > **证据等级：** `creator-reported`。TestingCatalog 在公开报道中称其获得 Seedance 2.5 早期访问，并称文中每条样片均为 30 秒单次生成；该具体样片以嵌入的 X 原帖公开。此项不是字节官方发布，也没有独立复现。
 >
-> **模型/版本：** Seedance 2.5 Pro（报道与原帖声明）；**模式：** Text-to-video（按公开文本推断）；**Prompt 状态：** `partial`；**发布日期：** 2026-07-11；**验证日期：** 2026-08-10；**证据截止日：** 2026-08-10。
+> **模型/版本：** Seedance 2.5（原帖后续更正“非 Pro”；报道正文仍称 Pro，故以更具体的原帖更正为准）；**模式：** Text-to-video（按公开文本推断）；**Prompt 状态：** `partial`；**发布日期：** 2026-07-11；**验证日期：** 2026-08-10；**证据截止日：** 2026-08-10。
 
 - **作者/发布方**：TestingCatalog（报道署名 MarsForTech、Alexey Shabanov）
 - **效果视频与原始来源**：[TestingCatalog 早期访问报道（嵌入成片）](https://www.testingcatalog.com/exclusive-early-30-second-ai-videos-generated-by-seedance-2-5/)；[X 原帖](https://x.com/testingcatalog/status/2076043332472463471)
