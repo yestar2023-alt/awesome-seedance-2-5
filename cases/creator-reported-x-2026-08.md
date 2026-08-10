@@ -214,3 +214,107 @@ Ultra-realistic. Looks exactly like a real solo city vlog filmed in 2026.
 ```
 
 **复现与限制**：首行的参考图标识在可访问文本中缺失，故此条不得视为可完整复跑的配方。仅用成年、已授权的合成或真实人物参考；发布时标注合成旅行内容，避免冒充真实旅行记录。原帖未公开实际参考图、seed、比例、时长、生成次数与项目文件；“18 years old”在不同地区可能带来平台与广告合规限制，建议将复现角色改为明确成年且不含可识别真人身份的自有角色。
+
+## CR-69｜比萨斜塔工程图：模块化搭建与倒放拆解
+
+- **作者**：Lee Lin | AI
+- **模型/版本**：Seedance 2.5（prompt 明确要求）；**模式**：Image-to-video + 后期倒放；**Prompt 状态**：`full`
+- **发布日期**：2026-07-31
+- **效果视频与原始来源**：[X 原帖（含视频）](https://x.com/LeeLinAI123/status/2083305831404044545)
+- **参考素材用途**：上传的比萨斜塔工程示意图是唯一输入，锁定背景、材料、构图、基础模块、图纸层与建筑倾斜轴；该图片未单独公开。
+
+```text
+Execute immediately. Do not restate the prompt, explain capabilities, offer options, or ask questions.
+
+Use the uploaded Leaning Tower of Pisa construction diagram as the only input image. Generate one 15.0-second Seedance 2.5 image-to-video source clip, native 16:9, 720p.
+
+This is an architectural construction-teaching video. Preserve the warm-white studio background, marble materials, engineering-diagram aesthetic, lighting, framing, and all existing shapes from the input image. Do not redesign or invent a new tower.
+
+Asset roles
+
+The partially built circular base at the lower center is the fixed construction anchor. It includes the existing stairs, entrance, cutaway masonry, and foundation. It never moves, rotates, scales, or breaks apart.
+
+Only these existing 3D elements are allowed to assemble:
+
+the curved column module and curved arch module at mid-left;
+the five C-shaped masonry-and-gallery modules in the center-left column;
+the five matching open arcade rings in the center-right column;
+the upper-right transition platform, bell-chamber arch ring, and finished bell-chamber crown.
+
+Everything else is a teaching-reference layer only:
+
+the elevation, plans, sections, diagrams, callouts, labels, leader lines, and dimension marks;
+the upper-left material samples;
+the separate entrance sample and spiral-stair sample;
+the loose group of seven bells at lower right.
+
+The teaching-reference layer never joins the building. It only fades out and later fades back in at exactly its original position. Its own shadows fade with it.
+
+Motion rules
+
+This must feel like the Huanghelou construction video: only one construction group moves at a time. The active group stays at full brightness; all waiting construction groups remain visible but dimmed to about 60% brightness.
+
+Every moving group keeps its original material, scale, orientation, and rigid shape. It moves along one short, clean, unobstructed path toward its final interface. No random flight, free rotation, melting, morphing, stretching, duplicate copies, or geometry left behind at the original location.
+
+Each group eases in, slows down before contact, locks perfectly into place, and pauses for about 0.12 seconds before the next group starts.
+
+The final tower follows the leaning direction indicated by the red “actual axis” in the left elevation drawing. The lean is stable architecture, not a collapse: do not straighten it, increase the lean, wobble, bend, or shake it.
+
+Source-clip timeline
+
+0.00–0.55s — Hold the first frame
+Keep the full diagram perfectly still so the viewer can read the exploded structure.
+0.55–1.15s — Reference layer fades out
+Fade out all diagrams, material samples, loose entrance and stair samples, loose seven-bell group, labels, callouts, and leader lines.
+Do not fade the warm-white background, the fixed central anchor, or the actual construction modules.
+
+1.15–2.05s — First arcade level
+Move the curved column module into the open receiving interface on top of the fixed anchor and lock it.
+Then move the curved arch module into the same level, completing the first arcade layer.
+2.05–7.05s — Five upper arcade levels
+Build the remaining five levels from bottom to top. For each horizontal pair:
+Move the matching C-shaped masonry-and-gallery module into place first.
+
+Move the matching open arcade ring second. It first aligns on the same leaning local axis, then descends coaxially around the masonry module and locks.
+Complete one full level before starting the next. Do not let upper layers move early. After this stage, the tower must show exactly six open arcade levels in total.
+7.05–8.45s — Bell chamber
+Move the circular transition platform onto the sixth arcade level, keeping its central opening aligned with the tower.
+Then install the bell-chamber arch ring.
+Finally install the finished bell-chamber crown containing the bell already visible in the reference image.
+
+The loose seven bells remain part of the teaching-reference layer and never fly into the tower.
+8.45–9.20s — Clean completed tower
+Hold the completed Leaning Tower of Pisa completely still on the warm-white background. No diagrams or reference samples are visible.
+
+9.20–10.30s — Teaching layer returns
+While the completed tower remains absolutely motionless, fade the original diagrams, material samples, loose stair and entrance samples, loose bells, labels, and callouts back to their exact first-frame positions.
+10.30–15.00s — Stable display
+Keep the completed tower and restored teaching-reference layer perfectly still.
+
+Final 15-second loop
+
+After generating source clip A, use the same project timeline:
+Keep source A from 0.00 to 10.30 seconds at normal speed.
+Duplicate that exact 0.00–10.30-second section.
+Mute the duplicated section.
+
+Reverse it and speed it up evenly to 4.70 seconds.
+
+Place it immediately after 10.30 seconds.
+Use a direct same-frame cut at the join: no dissolve, flash, black frame, or transition.
+
+Do not generate a second AI video for the disassembly.
+The reverse section must naturally show: reference layer fades out → bell chamber leaves → the six arcade levels leave in reverse order → the first arcade modules return → all construction modules return to their exact first-frame positions → teaching layer restores → final frame matches the uploaded first frame.
+
+The reverse disassembly should feel fast and exciting, but never like an explosion. Every module follows its exact original path backward.
+Camera, background, and audio
+
+Lock the original camera position, focal length, perspective, horizon, roll angle, exposure, and frame. No zoom, orbit, pan, tilt, push-in, pull-back, or camera correction of the tower lean.
+
+Keep the warm-white background, floor, shadow direction, and brightness continuous for the entire video. Never use black, dark gray, vignetting, a new location, a white flash, or a full-frame fade-out.
+
+No voiceover, dialogue, subtitles, lyrics, logos, watermarks, platform UI, or end card. Use only a subtle continuous room tone and very light stone-contact sounds. Mute the reversed clip audio.
+Deliver one final 15.0-second native 16:9 video and report the result briefly in Simplified Chinese.
+```
+
+**复现与限制**：先用自制/已获授权的建筑拆解图，严格分离“固定锚点、可移动模块、仅教学显示层”，并逐项检查模块数量、安装顺序、斜轴、阴影和倒放回归首帧。最终交付由 10.3 秒 Seedance 源片加复制、静音、倒放、加速的编辑步骤组成；不得把它误称为单次模型输出。原帖未公开输入图、seed、实际项目时间线或生成次数；复现时也避免将“Leaning Tower of Pisa”用于未经许可的商业品牌暗示。
