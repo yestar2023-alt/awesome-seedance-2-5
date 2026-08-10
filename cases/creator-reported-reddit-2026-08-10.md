@@ -90,6 +90,29 @@ AUDIO NOTES: Natural kitchen ambience, grinder whirring, tamping, steam hissing,
 REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles, occasional careful pauses while pouring, imperfect framing, focus breathing, bright morning light shifts. Should resemble a genuine personal coffee vlog on a consumer camcorder, not a commercial or AI-generated production.
 ```
 
+## CR-62｜卧室日常纪实：手机、猫与外卖铃声
+
+- **作者**：u/FarReputationAI
+- **模式**：Reference generation，15 秒、7 镜头蒙太奇
+- **效果视频与原始来源**：[Reddit 原帖（含视频）](https://www.reddit.com/r/seedance2pro/comments/1vj5vd8/how_to_create_a_candid_bedroom_sliceoflife_videos/)
+- **生成说明**：作者声明使用 Seedance 2.5 测试观察式日常场景；以 `@ Image 1` 锚定女主形象。原帖未公开该参考图、seed、比例、调用平台或生成次数。
+
+```text
+Montage, multi-shot candid observational footage. Do not use a single camera angle or continuous take. Handheld documentary style with the feeling of accidental real-life capture. Slightly imperfect framing, subtle handheld shake, tiny reframing adjustments, gentle exposure breathing, and autofocus that settles half a beat late. Realistic skin texture, soft indoor natural light, film grain, shallow depth of field. Relaxed breathing, natural blinking, restrained and authentic performance.
+Total of 7 shots.
+The woman from @ Image 1 is wearing a matching cotton pajama set consisting of a scoop-neck sleeveless top and loose shorts made from the same fabric and design. Barefoot, she lies on her stomach across a lived-in, slightly messy bed in her bedroom, browsing a mobile shopping page on a black smartphone. A house cat jumps onto the bed seeking attention, and she affectionately plays with it. Moments later, a friend calls. She answers, chats, and eventually bursts into laughter.
+The doorbell rings, so she ends the call and gets up to collect her dinner.
+Shot 1 (0–2s): She is already moving. One thumb scrolls through a shopping page while she frowns slightly, thinking. She quietly mutters in Korean: "아, 뭐 살랬더라…" ("Ah... what was I going to buy again?"). Lips synchronize naturally. Her bare feet gently sway behind her. A low handheld camera glides along the edge of the mattress, with soft bedding partially obscuring the foreground.
+Shot 2 (2–4s): The house cat jumps onto the bed, compressing the blanket as it walks toward her forearm and lets out a single meow. The camera gives a slight jolt from the impact, then quickly reframes from the phone to an over-the-shoulder view that includes her face, hands, phone, and cat.
+Shot 3 (4–6s): She turns warmly toward the cat, stroking it once from its forehead to its shoulders. In a gentle, affectionate tone she says: "우리 애기 왔어?" ("Did my baby come?"). Lip sync is clear and natural. The camera pushes in briefly through the cat's softly blurred foreground toward her face and hand.
+Shot 4 (6–8s): A friend's ringtone sounds. She glances down, confirms the caller, swipes to answer, and brings the phone to her ear. The camera moves in a loose semicircle from a slightly tilted overhead angle, capturing the entire answering motion.
+Shot 5 (8–11s): Her friend begins talking. She responds first with confusion, then disbelief: "어, 왜? 진짜 거짓말." ("Huh? Why? No way, you're kidding."). Immediately afterward she naturally bursts into laughter. The cat kneads the blanket beside her. A close handheld side angle keeps both her phone and profile within the same focal plane.
+Shot 6 (11–13s): A clear doorbell interrupts the laughter. Both she and the cat turn toward the bedroom door. She braces one hand on the mattress to get up. The camera reacts a fraction too late, briefly turning toward the door before naturally correcting back to her rising movement.
+Shot 7 (13–15s): Still on the phone, she hurriedly says: "어, 나 밥 왔다. 끊어." ("My food's here. I'll hang up."). She ends the call with her thumb, gets off the bed, and walks toward the door while the cat follows across the blankets. The camera slides low beneath her elbow and tilts upward as she stands in one continuous motion.
+Sound: No music. Only raw production sound: bedding rustling, quiet breathing, finger taps on the phone, the soft impact of the cat jumping onto the bed, one natural meow, faint purring, a single short incoming ringtone, call connection tone, the friend's voice through the phone, the woman's four Korean lines with accurate lip sync, a genuine brief laugh, one clear doorbell, the tap ending the call, and soft cat footsteps. No subtitles, no on-screen text, no logo, no watermark.
+Never render a reference sheet or duplicate the subject.
+```
+
 ## 复现与风险
 
 1. 先使用不含真实人物、未授权商标或受保护角色的自有素材与设定；这两条均为文本驱动，不应暗示素材或角色来自原作者。
@@ -97,6 +120,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 3. CR-56 含暴力战斗描写；CR-57 含酒精、泳池和换装场景。发布或商用时须遵守平台、受众与适用法律要求。
 4. CR-60 的引用素材没有公开，不能把此条当作可逐资产复跑的配方；复现时必须用自有素材替换各角色、窗口景观和参考风格，并检查“有文字/无文字”的冲突指令如何被当前入口解释。
 5. CR-61 以“拟真日常记录”为目标。合成 Vlog 应明确标识，不得将其用于冒充真人、真实地点或真实消费体验；咖啡机、背景音乐与环境声也须使用已获授权的内容。
+6. CR-62 涉及人物参考、韩语口播与高度拟真的家庭场景。仅可使用有授权的人像与声音，发布时应标识合成内容，避免使观众误认为真实私人生活记录。
 
 ## CR-58｜双参考的卡通双人对话（2.0 / 2.5 对照）
 
