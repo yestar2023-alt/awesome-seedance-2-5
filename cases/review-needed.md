@@ -10,6 +10,7 @@
 | RN-04｜一张图与声音克隆 | [Zubair Trabzada](https://www.youtube.com/watch?v=Ii5vlQMsgl8)，2026-08-08 | 作者称视频含“exact prompts”，并在视频中演示参考图、声音和 UGC 工作流。 | 描述栏只给出 prompt pack 入口，未公开单条 prompt 与对应视频；涉及人脸与声音，风险更高。 | 取得明确公开、可访问且有授权说明的单例资料后再评估。 |
 | RN-05｜单 prompt 多风格测试 | [Yaroflasher](https://www.youtube.com/watch?v=7pQ9SJUzA4w)，2026-08-03 | 作者明确称片头由 Seedance 2.5 和单个 prompt 生成，视频公开。 | 原帖未公开该 prompt 的全文或具体生成设置。 | 作者补充 prompt、模型入口与设置后可升级。 |
 | RN-06｜Figma Weave 商品广告 | [Artturi Jalli](https://www.youtube.com/watch?v=IqosffVLFEA)，2026-08-09 | 作者提供工作流/提示词链接，并公开商品广告视频。 | 外部 Weavy 工作流页受 Cloudflare 访问保护，当前无法核验单个完整 prompt、输入素材和模型调用记录。 | 在公开可访问时验证模型版本、输入与输出一一对应。 |
+| RN-07｜兔爪触脸的接触动作测试 | [u/Guilty-Cap2069](https://www.reddit.com/r/Seedance_AI/comments/1vi9d4f/seedance_25_kept_the_character_consistent_but/)，2026-08-10 验证 | 作者称以 ZenMux 的 `bytedance/doubao-seedance-2.5` 生成 720p、8 秒成片；原帖嵌入效果视频，并具体说明预期接触动作未执行。 | 作者称完整 prompt 在首条评论，但该评论未出现在当前可访问的公开页面，故无法核对完整文本与成片。 | 若作者在正文、可公开读取的评论或项目页贴出 prompt 全文，可作为“失败也可复现”的动作接触案例复核。 |
 
 ## 处理规则
 
