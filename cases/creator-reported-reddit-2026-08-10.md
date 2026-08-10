@@ -113,6 +113,17 @@ Sound: No music. Only raw production sound: bedding rustling, quiet breathing, f
 Never render a reference sheet or duplicate the subject.
 ```
 
+## CR-63｜海滩冰淇淋摊：30 秒对象持续性失败测试
+
+- **作者**：u/Salt_Extension5043
+- **模式**：Text-to-video，30 秒、单 prompt、无后期
+- **效果视频与原始来源**：[Reddit 原帖（含视频）](https://www.reddit.com/r/Akool_Official/comments/1vcdhmf/i_generated_a_30s_pixarstyle_video_with_capcut/)
+- **生成说明**：作者明确称在 CapCut 的 Seedance 2.5 上单击生成、未做后期。原帖还定位了 0:08 冰淇淋塔消失、推车外观变化、0:11 场景地形突变、0:17 拼写错误文本、鸟群消失及多次光照跳变；未公开 seed、比例、分辨率和生成次数。
+
+```text
+an ice cream vendor on a beach with a ridiculously tall stack of ice cream, gets attacked by seagulls led by one wearing a beret.
+```
+
 ## 复现与风险
 
 1. 先使用不含真实人物、未授权商标或受保护角色的自有素材与设定；这两条均为文本驱动，不应暗示素材或角色来自原作者。
@@ -121,6 +132,7 @@ Never render a reference sheet or duplicate the subject.
 4. CR-60 的引用素材没有公开，不能把此条当作可逐资产复跑的配方；复现时必须用自有素材替换各角色、窗口景观和参考风格，并检查“有文字/无文字”的冲突指令如何被当前入口解释。
 5. CR-61 以“拟真日常记录”为目标。合成 Vlog 应明确标识，不得将其用于冒充真人、真实地点或真实消费体验；咖啡机、背景音乐与环境声也须使用已获授权的内容。
 6. CR-62 涉及人物参考、韩语口播与高度拟真的家庭场景。仅可使用有授权的人像与声音，发布时应标识合成内容，避免使观众误认为真实私人生活记录。
+7. CR-63 直接使用受保护工作室风格名称描述成片观感，复现时应改写为不指向具体权利人的原创 3D 卡通美术方向；同时将对象持续性、文字渲染和镜头间光照稳定性设为必检项。
 
 ## CR-58｜双参考的卡通双人对话（2.0 / 2.5 对照）
 
