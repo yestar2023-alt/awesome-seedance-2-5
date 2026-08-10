@@ -1,4 +1,4 @@
-# CR-56 ～ CR-57｜Reddit 创作者公开实测
+# CR-56 ～ CR-59｜Reddit 创作者公开实测
 
 > **来源与证据等级：** `creator-reported`。每个原帖均由作者公开发布成片帖和完整 prompt，并明确声称使用 Seedance 2.5；本仓库不将其视为字节官方或独立复现结果。
 >
@@ -50,3 +50,44 @@ Maintain her exact hairstyle, green eyes, Brazil jersey, and white denim shorts 
 1. 先使用不含真实人物、未授权商标或受保护角色的自有素材与设定；这两条均为文本驱动，不应暗示素材或角色来自原作者。
 2. 连续长镜头应逐项验证人物外观、道具、运动轨迹、镜头连续性、音画同步和无硬切；即使 prompt 完整，单次结果不代表可稳定复现。
 3. CR-56 含暴力战斗描写；CR-57 含酒精、泳池和换装场景。发布或商用时须遵守平台、受众与适用法律要求。
+
+## CR-58｜双参考的卡通双人对话（2.0 / 2.5 对照）
+
+- **作者**：u/qwertyu_alex
+- **模式**：Reference generation；两张人物参考图
+- **效果视频与原始来源**：[Reddit 原帖](https://www.reddit.com/r/Seedance_AI/comments/1vi3miq/seedance_2_vs_seedance_25_same_prompt_same/)；[Seedance 2.5 分享页](https://starpop.ai/share/chat/6da7583b-90c1-4758-83f3-f4e36ebce061)
+- **生成说明**：作者明确说明 2.0 和 2.5 使用相同 prompt 与相同参考图，并分别提供分享链接；未公开 2.5 的 seed、参数、生成次数或稳定下载地址。
+
+```text
+Disney/Pixar-style 3D animated comedy dialogue scene, warm soft studio lighting.
+No captions. No background music.
+reference image 1 = character A, preserve stylized face, large eyes, oversized hands, hair, and outfit.
+reference image 2 = character B, preserve stylized face, large eyes, oversized hands, hair, and outfit.
+
+Define the man from reference image 1 as Guy A.
+Define the man from reference image 2 as Guy B.
+Shot 1: Medium two-shot. Guy A and Guy B stand facing each other against a simple warm-toned background. Guy A squints suspiciously at Guy B's face, leans in slightly, and gestures at his own eyes with exaggerated concern. He says, bewildered: "Dude… why do your eyes take up half your head?"
+
+Shot 2: Reverse medium shot on Guy B. He recoils defensively, glances down at Guy A's hands, and throws his arms up. He snaps back, voice rising: "Why are YOUR hands the size of baseball mitts?!"
+Shot 3: Two-shot, both men freeze. Guy A crosses his arms firmly, jaw tight, and declares flatly: "We are NOT animated."
+Shot 4: Close-up on Guy B. His eye twitches. He forces a strained smile and says, voice cracking slightly: "Absolutely not. We're just… very smooth."
+
+Style: Pixar-quality 3D animation, soft ambient occlusion, expressive cartoon physics, stable character faces throughout.
+```
+
+## CR-59｜夏日祭手机旅行 Vlog
+
+- **作者**：u/Horror_Dirt6176
+- **模式**：Text-to-video，30 秒、自拍手持
+- **效果视频与原始来源**：[Reddit 原帖（含视频）](https://www.reddit.com/r/Seedance_AI/comments/1ved56q/using_seedance_25_to_generate_vlogs_is_very/)
+- **生成说明**：作者在原帖评论中给出完整 prompt，并指向 [sjinn.ai 的 Seedance 2.5 入口](https://sjinn.ai/tool-mode/seedance25-video)；社区反馈记录了食物、游戏与烟花段的具体瑕疵。未公开 seed、比例和生成次数。
+
+```text
+A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearing a pastel yukata explores a traditional Japanese summer festival at night. She films herself in selfie mode with natural handheld movement, realistic phone camera quality, and authentic ambient sounds.
+She walks through lantern-lit streets, buys fresh takoyaki and smiles after taking a bite, plays a traditional festival game and wins a small plush toy, then watches a spectacular fireworks display with the crowd, capturing her genuine excitement. She ends the vlog by waving at the camera and saying, "Thanks for coming with me. See you next time. Bye!" The video should feel natural, cinematic, and realistic with consistent appearance, smooth human motion, and authentic festival atmosphere.
+```
+
+## 补充风险
+
+1. CR-58 使用了受保护工作室/品牌风格的直接名称；建议改写为不指向特定权利人的原创 3D 卡通美术描述，并确保人物参考图已获授权。
+2. CR-59 涉及人像、节庆场景和口播。不得用合成 Vlog 冒充真实旅行记录，且须处理人物、场地与音乐/环境声的授权问题。
