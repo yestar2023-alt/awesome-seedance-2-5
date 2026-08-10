@@ -17,9 +17,9 @@
 - [Showcase serialized cases — CR-49 ～ CR-55](./cases/community-reported-serialized.md): 7 个从页面原始序列化数据还原的完整 prompt，涵盖多参考广告与长提示词续写。
 - [Reddit creator cases — CR-56 ～ CR-63](./cases/creator-reported-reddit-2026-08-10.md): 八个独立创作者公开的成片帖与完整 prompt，覆盖第一人称动作、30 秒手持单镜头、双参考对话、旅行 Vlog、多房间转场、咖啡制作、日常纪实和对象持续性测试。
 - [Early-access creator case — CR-64](./cases/creator-reported-2026-07-11-testingcatalog.md): TestingCatalog 公开的 30 秒 Seedance 2.5 Pro 样片；仅公开题材级 prompt 文本，明确标记为 `partial`。
-- [X creator cases — CR-65 ～ CR-69](./cases/creator-reported-x-2026-08.md): 五条原作者公开的 Seedance 2.5 成片与 prompt 文本，涵盖复古奇幻、机甲追逐、产品广告、旅行 Vlog 与工程拆解；CR-68 明确标为 `partial`。
+- [X creator cases — CR-65 ～ CR-70](./cases/creator-reported-x-2026-08.md): 六条原作者公开的 Seedance 2.5 成片与 prompt 文本，涵盖复古奇幻、机甲追逐、产品广告、旅行 Vlog、工程拆解与粤语对白；CR-68 明确标为 `partial`。
 
-目前共 **78 个**带可播放视频链接的案例；其中 **76 个**公开完整 prompt，**2 个**仅公开部分 prompt（CR-64、CR-68），覆盖：
+目前共 **79 个**带可播放视频链接的案例；其中 **77 个**公开完整 prompt，**2 个**仅公开部分 prompt（CR-64、CR-68），覆盖：
 
 - 30 秒叙事、一镜到底与多轮延长
 - 多图/视频/音频参考与多人群像
