@@ -13,6 +13,8 @@
 | RN-07｜兔爪触脸的接触动作测试 | [u/Guilty-Cap2069](https://www.reddit.com/r/Seedance_AI/comments/1vi9d4f/seedance_25_kept_the_character_consistent_but/)，2026-08-10 验证 | 作者称以 ZenMux 的 `bytedance/doubao-seedance-2.5` 生成 720p、8 秒成片；原帖嵌入效果视频，并具体说明预期接触动作未执行。 | 作者称完整 prompt 在首条评论，但该评论未出现在当前可访问的公开页面，故无法核对完整文本与成片。 | 若作者在正文、可公开读取的评论或项目页贴出 prompt 全文，可作为“失败也可复现”的动作接触案例复核。 |
 | RN-08｜单提示词电影片段 | [u/huzi001](https://www.reddit.com/user/huzi001/comments/1vg7n0s/seedance_25_output/)，2026-08-10 验证 | 作者称该嵌入成片由 Seedance 2.5 的单条文生视频 prompt 生成，并明确提及动作、运镜、物理、对白与连续性。 | 正文没有公开 prompt 原文、模型入口、时长、分辨率或参考素材；无法据此区分实际参数与事后描述。 | 若作者补充完整 prompt 和使用平台/设置，可将成片与文本建立一对一案例。 |
 | RN-09｜单图 Vlog 广告 | [r/Seedance_AI 帖子](https://www.reddit.com/r/Seedance_AI/comments/1vbse9l/seedance_25_is_insane_for_vlog_style_ads/)，2026-08-10 验证 | 帖子嵌入一支 30 秒广告视频，并声称由“一张产品图 + 一条 prompt”一镜生成；评论中也向作者索要 prompt。 | 公开页面没有作者实际使用的 prompt、输入产品图、具体平台或设置；“prompt”仅是未证实的说法。 | 作者在正文/评论公开 prompt 与可使用的参考素材后，再核验是否为 Seedance 2.5 成片。 |
+| RN-10｜Atomic Gains 的 10 条提示词库 | [Atomic Gains 视频](https://www.youtube.com/watch?v=dVwXRk0ksXs)（2026-08-08）与[公开文档](https://docs.google.com/document/d/1p8XwIMV0ZZKTNAgNLe9kOCWtOtquQIuf/edit?usp=sharing)，2026-08-10 验证 | 视频说明明确称在 Higgsfield 使用 Seedance 2.5；文档完整公开 10 条 prompt，并标注其中多条依赖上传图/视频参考；另提供 clay-render 样片文件夹。 | 文档说明“自备素材”，且未将 10 条 prompt 与视频中的具体片段、参考素材、参数逐条对应；样片也没有可公开核验的 prompt 映射。 | 若作者提供每个片段的 prompt 编号、输入资产和可播放输出链接，可拆分为案例。 |
+| RN-11｜17 条对比测试提示词 | [Dom the AI Tutor 视频](https://www.youtube.com/watch?v=PKYMN0U1Feg)（2026-08-01），2026-08-10 验证 | 作者在说明中称以 17 条 prompt 完成 34 个 Seedance 2.0 / 2.5 对比，明确 2.5 在 Dreamina CapCut 生成，并列出 17 个测试主题。 | 虽指向个人网站领取提示词，当前公开网站只见通用 prompt 汇总，未见这 17 条的完整文本、参考素材及与视频时间段的一一对应。 | 作者将本视频对应 prompt 页、输入资产与具体成片章节公开后再核验。 |
 
 ## 处理规则
 
