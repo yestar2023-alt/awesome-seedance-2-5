@@ -7,7 +7,7 @@
 - **发布日期**：2026-08-07（页面抓取显示 2026-08-08 更新）
 - **验证日期**：2026-08-10
 - **模式**：Text-to-video，30 秒，单镜头，原生音频
-- **效果视频**：[原始文章内嵌播放（Example：Bodega）](https://fal.ai/learn/devs/seedance-2-5-prompting-guide)
+- **效果视频**：[直接播放 MP4](https://v3b.fal.media/files/b/0aa55fee/QX_-xXGHFWpFS_NiJwXfF_video.mp4)
 - **原始来源**：[Fal.ai — Seedance 2.5 Prompting Guide + Real Examples](https://fal.ai/learn/devs/seedance-2-5-prompting-guide)
 
 原作者明确说明：页面下方 10 个视频均由 Fal 使用下方 prompt 生成，未剪辑、变速或后期加音频。视频以文章内嵌播放器形式公开；本仓库不下载或镜像媒体文件。
@@ -27,5 +27,5 @@
 ## 限制与风险
 
 - 这是 Fal 作者自报的单次生成案例，没有独立复现或公开 seed；应视为示范而非稳定性保证。
-- 原始页面提供内嵌播放器而非稳定的独立 MP4 URL；链接失效时保留条目并标记 `link-rot`，不静默替换。
+- 效果视频为 Fal 页面公开的 CDN 输出；链接失效时保留条目并标记 `link-rot`，不静默替换。
 - 场景中的人物、商标和环境描述仅用于复现，使用时应替换为有权使用的素材。

@@ -9,8 +9,9 @@
 - [Official cases — 9 examples](./cases/official.md): ByteDance Seed 发布页公开的 prompt 与视频。
 - [Community-reported cases — 12 examples](./cases/community-reported.md): 公开 Showcase 中的输入、prompt 与视频，均明确标记为 `creator-reported`。
 - [New creator case — CR-13](./cases/creator-reported-2026-08-07-fal-bodega.md): Fal.ai 作者公开的 30 秒一镜到底实测（`creator-reported`）。
+- [Fal creator cases — CR-14 ～ CR-22](./cases/creator-reported-2026-08-07-fal-more.md): 公开的因果物理、遮挡、参考分工、对话、流体和续写实测。
 
-目前共 **22 个**带可播放视频链接与完整 prompt 的案例，覆盖：
+目前共 **31 个**带可播放视频链接与完整 prompt 的案例，覆盖：
 
 - 30 秒叙事、一镜到底与多轮延长
 - 多图/视频/音频参考与多人群像
